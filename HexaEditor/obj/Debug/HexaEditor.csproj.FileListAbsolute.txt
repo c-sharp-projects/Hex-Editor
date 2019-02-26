@@ -1,0 +1,34 @@
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor_MarkupCompile.cache
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor_MarkupCompile.lref
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\bin\Debug\HexaEditor.exe.config
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\bin\Debug\HexaEditor.exe
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\bin\Debug\HexaEditor.pdb
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.g.resources
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.Properties.Resources.resources
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.exe
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\HexaEditor.pdb
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\Window2.g.cs
+C:\Users\Harshal\Desktop\HexaEditor\HexaEditor\obj\Debug\Window2.baml
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\bin\Debug\HexaEditor.exe.config
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\bin\Debug\HexaEditor.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\bin\Debug\HexaEditor.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\MainWindow.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\Window2.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\App.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor_MarkupCompile.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor_MarkupCompile.lref
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\MainWindow.baml
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\Window2.baml
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.g.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.Properties.Resources.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.csproj.GenerateResource.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.csproj.CoreCompileInputs.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\HexaEditor\HexaEditor\obj\Debug\HexaEditor.pdb
